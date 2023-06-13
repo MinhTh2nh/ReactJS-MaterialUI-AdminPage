@@ -1,3 +1,8 @@
+Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+
+#Based on the Instructions from this youtuber
+Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
